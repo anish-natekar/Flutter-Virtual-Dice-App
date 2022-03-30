@@ -1,16 +1,5 @@
 # dice_roll_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Fun, Simple and Useful App made with Flutter.
+It takes the number of sides and dice as Input and returns the outcomes after we tap the ROLL button. It can be used as a random number generator, coin toss or as a replacement for real dice which get lost easily.
+Read more about it on my Blog: https://hashnode.com/preview/62276e0033120280724e74fe
